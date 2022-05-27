@@ -23,4 +23,4 @@ You may also see any lint errors in the console.
 
 ## Github Project Link
 
-[GitHub Project] : [Ice Cream App Github Link](https://github.com/Prasanto19/react-icecream)
+[GitHub Project] : [Ice Cream App](https://github.com/Prasanto19/react-icecream)
