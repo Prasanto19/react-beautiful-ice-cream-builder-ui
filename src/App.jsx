@@ -1,13 +1,15 @@
 import React from 'react';
-import './App.css'
-import Layout from './components/Layout/Layout'
-import Header from './components/Header/Header'
+import './App.css';
+import Footer from './components/Footer/Footer';
+import Header from './components/Header/Header';
+import Layout from './components/Layout/Layout';
 
 function App() {
   return (
     <>
       <Layout>
-        <Header/>
+        <Header />
+        <Footer />
       </Layout>
     </>
   );
