@@ -1,9 +1,8 @@
+/* eslint-disable react/prop-types */
 import { React } from 'react';
 
-const Layout = ({children}) => {
-  return (
-    <div>{children}</div>
-  )
-}
+const Layout = ({ children }) => {
+  return <div>{children}</div>;
+};
 
 export default Layout;
