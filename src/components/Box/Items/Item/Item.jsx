@@ -1,14 +1,17 @@
 /* eslint-disable react/prop-types */
-import { countBy } from 'lodash';
 import React from 'react';
 import classes from './Item.module.css';
-const Item = ({ name, add, remove, scoops = {} }) => {
+import { countBy } from 'lodash';
+const Item = ({ name, add, remove, scoops = {}, unitPrice }) => {
   const scoopsByCount = countBy(scoops);
   return (
     <li className={classes.item}>
-      <span>{name}</span>
+      <b>{name}</b>[{unitPrice.toFixed(2)}Tk]
       {scoopsByCount[name] >= 0 ? (
-        <span className={classes.quantity}> {scoopsByCount[name]}</span>
+        <span className={classes.quantity}>
+          {' X'}
+          {scoopsByCount[name]}
+        </span>
       ) : null}
       <div className="right">
         <button
@@ -24,6 +27,7 @@ const Item = ({ name, add, remove, scoops = {} }) => {
             onClick={remove.bind(this, name)}
             className={`${classes.minus} rounded`}
           >
+            {' '}
             -
           </button>
         ) : null}

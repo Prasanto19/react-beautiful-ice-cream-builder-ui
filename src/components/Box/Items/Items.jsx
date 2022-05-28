@@ -10,6 +10,7 @@ const Items = ({ items, add, remove, scoops }) => {
           <Item
             key={flavor}
             name={flavor}
+            unitPrice={items[flavor]}
             add={add}
             remove={remove}
             scoops={scoops}
