@@ -3,7 +3,6 @@ import React from 'react';
 import classes from './Item.module.css';
 const Item = ({name,add,remove,scoops ={}}) => {
   const scoopsByCount = countBy(scoops);
-  console.log(scoopsByCount);
   return (
     <li className={classes.item} >
         <span>{name}</span>
