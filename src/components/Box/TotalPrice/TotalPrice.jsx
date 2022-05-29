@@ -7,7 +7,7 @@ const TotalPrice = ({ price = 0 }) => {
   return (
     <div className={classes.total}>
       <div>Total Price</div>
-      {price > 0 ? <div>{price.toFixed(2)} Tk</div> : <div>0.00 Tk</div>}
+      {price > 0 ? <div>{price}円</div> : <div>0円</div>}
     </div>
   );
 };
