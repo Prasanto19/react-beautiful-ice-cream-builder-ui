@@ -16,10 +16,10 @@
   </a>
 </div>
 <Br>
-<h2  id="header" align="center">
+<h2  id="header" >
   <a  href="https://react-icecream.netlify.app" >Ice Cream App</a>
 </h2>
-<div align="center">
+<div >
   <a href="https://react-icecream.netlify.app" target="_blank">
    <img alt="Demo" src="./public/favion.png" />
   </a>
