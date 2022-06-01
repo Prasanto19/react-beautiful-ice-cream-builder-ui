@@ -49,6 +49,7 @@ This app was built using these technologies.
 **📱 Fully Responsive**
 <hr>
 <Br>
-### Show your support
+  
+## Show your support
   
 Give a ⭐ if you like this website!
