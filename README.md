@@ -39,16 +39,15 @@ This app was built using these technologies.
 - CSS3
 - VsCode
 - Git
-<hr>
+
 ## Features
-<hr>
+
 **📖 Single-Page Layout**
 
 **🎨 Beautiful Dynamic Icecream Layout.**
 
 **📱 Fully Responsive**
-<hr>
-<Br>
+
 ### Show your support
 <hr>
 Give a ⭐ if you like this website!
