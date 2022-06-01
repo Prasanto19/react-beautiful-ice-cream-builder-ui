@@ -24,9 +24,8 @@
    <img alt="Demo" src="./public/favion.png" />
   </a>
 </div>
-
 <hr>
-<Br>
+<br>
 
 ## Built With
 
