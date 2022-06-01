@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://github.com/Prasanto19">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
@@ -16,7 +16,10 @@
   </a>
 </div>
 <Br>
-<h2  id="header" >
+<div id="header" align="center">
+  <a href="https://react-icecream.netlify.app"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
+</div>
+<h2  id="header" align="center" >
   <a  href="https://react-icecream.netlify.app" >Ice Cream App</a>
 </h2>
 <div >
