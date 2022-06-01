@@ -20,7 +20,7 @@
   <a href="https://react-icecream.netlify.app"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
 </div>
 <h2  id="header" align="center" >
-  <a  href="https://react-icecream.netlify.app" >Ice Cream App</a>
+  <a  href="https://react-icecream.netlify.app" >Prashanta | Ice Cream App</a>
 </h2>
 <div >
   <a href="https://react-icecream.netlify.app" target="_blank">
