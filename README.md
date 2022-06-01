@@ -15,10 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div id="header" align="center">
-  <a href="https://react-icecream.netlify.app"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
-</div>
+<Br>
 <h2  id="header" align="center">
   <a  href="https://react-icecream.netlify.app" >Ice Cream App</a>
 </h2>
@@ -28,7 +25,8 @@
   </a>
 </div>
 
-<br/>
+<hr>
+<Br>
 
 ## Built With
 
@@ -41,7 +39,8 @@ This app was built using these technologies.
 - CSS3
 - VsCode
 - Git
-
+<hr>
+<Br>
 ## Features
 
 **📖 Single-Page Layout**
@@ -49,7 +48,8 @@ This app was built using these technologies.
 **🎨 Beautiful Dynamic Icecream Layout.**
 
 **📱 Fully Responsive**
-
+<hr>
+<Br>
 ### Show your support
 
 Give a ⭐ if you like this website!
