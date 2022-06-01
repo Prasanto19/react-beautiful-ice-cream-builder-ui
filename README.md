@@ -21,7 +21,7 @@
 </h2>
 <div >
   <a href="https://react-icecream.netlify.app" target="_blank">
-   <img alt="Demo" src="./public/favion.png" />
+   <img alt="Demo" src=".src/assets/images/react-icecream-readme.png" />
   </a>
 </div>
 <hr>
