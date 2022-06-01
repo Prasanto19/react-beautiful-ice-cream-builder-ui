@@ -47,7 +47,8 @@ This app was built using these technologies.
 **🎨 Beautiful Dynamic Icecream Layout.**
 
 **📱 Fully Responsive**
-
-### Show your support
 <hr>
+<Br>
+### Show your support
+  
 Give a ⭐ if you like this website!
