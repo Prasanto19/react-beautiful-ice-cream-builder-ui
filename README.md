@@ -40,9 +40,8 @@ This app was built using these technologies.
 - VsCode
 - Git
 <hr>
-<Br>
 ## Features
-
+<hr>
 **📖 Single-Page Layout**
 
 **🎨 Beautiful Dynamic Icecream Layout.**
@@ -51,5 +50,5 @@ This app was built using these technologies.
 <hr>
 <Br>
 ### Show your support
-
+<hr>
 Give a ⭐ if you like this website!
