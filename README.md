@@ -20,7 +20,7 @@
   <a href="https://react-icecream.netlify.app"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
 </div>
 <h2  id="header" align="center" >
-  <a  href="https://react-icecream.netlify.app" >Prashanta | Ice Cream App</a>
+  <a  href="https://react-icecream.netlify.app" >Prashanta | Beautiful Ice Cream Builder UI</a>
 </h2>
 <div >
   <a href="https://react-icecream.netlify.app" target="_blank">
@@ -32,8 +32,9 @@
 
 ## Built With
 
-This is a <a href="https://react-icecream.netlify.app" target="_blank">ice cream order app</a> where anyone can <br/> select their favourite 
-icecreams and will be displayed a beautiful dynamic icecream layout.
+
+This is a beautiful <a href="https://react-icecream.netlify.app" target="_blank">ice cream</a> buider ui.
+You can select your favourite icecream to order and a beautiful dynamic icecream will be build according to your choice.
 
 This app was built using these technologies.
 
@@ -47,6 +48,15 @@ This app was built using these technologies.
 **📖 Single-Page Layout**
 
 **🎨 Beautiful Dynamic Icecream Layout.**
+
+**🎨 
+- Functional Component Props rendering Import files
+- Arrow functions
+- State management using hook
+- Manage code with version control(git)
+- Integrate eslint with prettier for auto formatting 
+- Use additional yarn scripts for creating beautiful UI 
+- Finally deploy it on netlify.**
 
 **📱 Fully Responsive**
 <hr>
