@@ -50,7 +50,7 @@ This app was built using these technologies.
 
 **🎨 Beautiful Dynamic Icecream Layout.**
 
-**🎨Features I have used**
+**🎨What I have used**
   
 - Make small components of every part of o page 
 - Functional Component 
