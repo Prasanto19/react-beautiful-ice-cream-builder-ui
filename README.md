@@ -35,6 +35,7 @@
 
 This is a beautiful <a href="https://react-icecream.netlify.app" target="_blank">ice cream</a> buider ui.
 You can select your favourite icecream to order and a beautiful dynamic icecream will be build according to your choice.
+It's a self sedevloped personal project created using create-react-app with react.js.
 
 This app was built using these technologies.
 
@@ -49,14 +50,18 @@ This app was built using these technologies.
 
 **🎨 Beautiful Dynamic Icecream Layout.**
 
-**🎨 
-- Functional Component Props rendering Import files
+**🎨Features I have used**
+  
+- Make small components of every part of o page 
+- Functional Component 
+- Props rendering
+- Import files
 - Arrow functions
 - State management using hook
 - Manage code with version control(git)
 - Integrate eslint with prettier for auto formatting 
 - Use additional yarn scripts for creating beautiful UI 
-- Finally deploy it on netlify.**
+- Finally deploy it on netlify.
 
 **📱 Fully Responsive**
 <hr>
@@ -64,4 +69,4 @@ This app was built using these technologies.
   
 ## Show your support
   
-Give a ⭐ if you like this website!
+Give a me ⭐ if you like this website!
