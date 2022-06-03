@@ -33,9 +33,9 @@
 ## Built With
 
 
-This is a beautiful <a href="https://react-icecream.netlify.app" target="_blank">ice cream</a> buider ui.
-You can select your favourite icecream to order and a beautiful dynamic icecream will be build according to your choice.
-It's a self sedevloped personal project created using create-react-app with react.js.
+This is a beautiful <a href="https://react-icecream.netlify.app" target="_blank">ice-cream</a> builder UI.
+You can select your favourite ice-cream to order and a beautiful dynamic ice-cream will be build according to your choice.
+It's a self developed personal project created using create-react-app with react.js.
 
 This app was built using these technologies.
 
