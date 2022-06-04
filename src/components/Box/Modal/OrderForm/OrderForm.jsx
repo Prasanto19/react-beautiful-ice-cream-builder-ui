@@ -3,7 +3,7 @@ import classes from './OrderForm.module.css';
 const OrderForm = () => {
   return (
     <div className={classes.formContainer}>
-      <h1>Complete the form below and click "Send" button.</h1>
+      <h1>Complete the form below and click `"`Send`"` button`.|</h1>
       <form className={classes.orderForm}>
         <ul>
           <li>
