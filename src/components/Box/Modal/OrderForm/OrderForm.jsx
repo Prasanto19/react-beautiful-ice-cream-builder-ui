@@ -3,7 +3,7 @@ import classes from './OrderForm.module.css';
 const OrderForm = () => {
   return (
     <div className={classes.formContainer}>
-      <h1>Complete the form below and hit submit</h1>
+      <h1>Complete the form below and click "Send" button!</h1>
       <form className={classes.orderForm}>
         <ul>
           <li>
@@ -36,7 +36,7 @@ const OrderForm = () => {
             ></textarea>
           </li>
           <li>
-            <input type="submit" value="Submit Order" />
+            <input type="submit" value="Send" />
           </li>
         </ul>
       </form>
