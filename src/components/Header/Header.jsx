@@ -8,10 +8,10 @@ const Header = () => {
     <header>
       <div className="container">
         <div>
-          <img className={classes.logo} src={logo} alt="Logo" />
+          <a href = "https://beautiful-ice-cream-builder-ui.netlify.app"><img className={classes.logo} src={logo} alt="Logo" /></a>
         </div>
         <div className="textRight">
-          <img src={reactlogo} alt="React" className={classes.reactLogo} />
+          <a href = "https://create-react-app.dev"><img src={reactlogo} alt="React" className={classes.reactLogo} /></a>
           <strong>React</strong>
         </div>
       </div>
