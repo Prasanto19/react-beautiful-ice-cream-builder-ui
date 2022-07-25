@@ -65,8 +65,7 @@ This app was built using these technologies.
 
 **📱 Fully Responsive**
 <hr>
-<Br>
   
 ## Show your support
   
-Give a me ⭐ if you like this website!
+Give me a ⭐ if you like this website!
